@@ -4,9 +4,12 @@
   description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
 
 # Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
+- skill: Languages
+  description: Java, Python, JavaScript, HTML, CSS, PL/SQL
 
 # Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+- skill: Technologies
+  description: React, Oracle Db, MySQL, Tableau, Node, Vue, Bootstrap, Sass, Git, JIRA, MongoDb
+
+  - skill: Concepts
+  description: Object Oriented Programming, Functional Programming, Agile, Design Patterns, Software Development Life Cycle, Database Management, Rest API, Design pattern I use, Scrum.
