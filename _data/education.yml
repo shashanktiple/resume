@@ -1,13 +1,13 @@
 # Degree
-- degree: Bahelors
-  uni: Savitribai Phule Pune University 
-  year: 2012 &mdash; 2016
-  # awards:
-  #   - award: Summa Cumme Laude graduate
-   summary: Information Technology 
+# - degree: Bahelors
+#   uni: Savitribai Phule Pune University
+#   year: 2012 &mdash; 2016
+#   # awards:
+#   #   - award: Summa Cumme Laude graduate
+#    summary: Information Technology
 
-- degree: Masters
-  uni: DePaul University 
-  year: 2021 &mdash; 2023
-  # award: Most likely to succeed
-  summary: Masters
+# - degree: Masters
+#   uni: DePaul University
+#   year: 2021 &mdash; 2023
+#   # award: Most likely to succeed
+#   summary: Masters
